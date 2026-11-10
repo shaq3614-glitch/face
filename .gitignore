@@ -1,0 +1,12 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Playwright test output
+.playwright-mcp/
