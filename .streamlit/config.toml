@@ -1,0 +1,14 @@
+[theme]
+base = "dark"
+primaryColor = "#D4AF37"
+backgroundColor = "#0E1322"
+secondaryBackgroundColor = "#182036"
+textColor = "#EDE6D3"
+font = "serif"
+
+[client]
+toolbarMode = "minimal"
+
+[server]
+# 앱에서 10MB 제한을 한국어로 안내하기 위해 Streamlit 자체 한도는 넉넉하게 둔다
+maxUploadSize = 50
